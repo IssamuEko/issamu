@@ -1,0 +1,17 @@
+body{
+	background: #FFFFF0;
+	border-style: solid; border-top: none; border-bottom: none;
+	border-width: 174px;
+	border-color: #003000
+}
+#mastersword {
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  resize; width: 1500px; height: 700px
+}
+p{
+	text-align: left;
+	font-size: 25px;
+	margin: 0
+}
